@@ -2,7 +2,7 @@
 
 &nbsp;
 
-Repo Doutorado 
+Repo Doutorado - Pesquisador: Rodrigo Hermont Ozon
 
 
 [Escola Politécnica - Programa de Pós-Graduação em Engenharia de Produção e de Sistemas](https://www.pucpr.br/escola-politecnica/mestrado-doutorado/engenharia-de-producao-e-sistemas/)
