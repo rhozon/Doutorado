@@ -12,9 +12,7 @@ Pesquisador (reseacher): Rodrigo Hermont Ozon
 
 ***
 
-  ![](https://upload.wikimedia.org/wikipedia/commons/f/f0/Pucpr-logo.jpg)
-
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Pucpr-logo.jpg" width="100">
+
 ***
 
