@@ -7,7 +7,7 @@ Pesquisador (reseacher): Rodrigo Hermont Ozon
 
 [Escola Politécnica - Programa de Pós-Graduação em Engenharia de Produção e de Sistemas](https://www.pucpr.br/escola-politecnica/mestrado-doutorado/engenharia-de-producao-e-sistemas/)
 
-[Politechnical School - Graduate Program in Production and Systems Engineering](https://www.pucpr.br/escola-politecnica/mestrado-doutorado/engenharia-de-producao-e-sistemas/)
+[Polytechnic School - Graduate Program in Production and Systems Engineering](https://www.pucpr.br/escola-politecnica/mestrado-doutorado/engenharia-de-producao-e-sistemas/)
 
 
 ***
